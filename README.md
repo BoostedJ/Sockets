@@ -34,7 +34,10 @@ java Sockets_Test
    - **Enter port of server to connect to** (e.g., 6000)
 #### 3. **Run the Client**
 1. On the computer(s) that will act as the **client(s)**, run the `Sockets_test` program:
-2. When prompted:
+```bash
+java Sockets_Test
+```
+3. When prompted:
    - **Enter port for the client to listen on** (e.g., 6000)
    - **Enter IP address of server to connect to**
    - **Enter port of server to connect to** (e.g., 5000)
