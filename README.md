@@ -19,7 +19,7 @@ Demonstrates a basic client-server communication using sockets in Java. The serv
 
 ## **Steps to Run the Program**
 #### 1. **Compile the Program**
-Make sure all the '.java' files ('SocketClient.java', 'Sockets_Test.java', 'SocketServer.java') are in the same directory. Compile the program using the following command:
+Make sure all the `.java` files (`SocketClient.java`, `Sockets_Test.java`, `SocketServer.java`) are in the same directory. Compile the program using the following command:
 ```bash
 javac SocketClient.java Sockets_test.java SocketServer.java
 ```
